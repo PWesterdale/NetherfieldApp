@@ -1,0 +1,3 @@
+rootProject.name = 'netherfield'
+
+include ':app'
